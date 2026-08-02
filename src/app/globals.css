@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-selaras-primary: #0F4C81;
+  --color-selaras-green: #2E8B57;
+  --color-selaras-orange: #FF9F1C;
+  --color-selaras-bg-light: #F8F9FA;
+  --color-selaras-dark: #1A1A1A;
+  --color-selaras-teal: #2EC4B6;
+
+  --font-poppins: 'Poppins', sans-serif;
+}
